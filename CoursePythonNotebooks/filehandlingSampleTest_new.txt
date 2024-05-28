@@ -1,0 +1,2 @@
+This is a line added programmatically using the write function !
+This is a line added programmatically using the write function !  LINE 2
